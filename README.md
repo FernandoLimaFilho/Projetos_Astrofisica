@@ -2,6 +2,7 @@
 Repositório de projetos em Machine Learning desenvolvidos durante minha bolsa de IC na Física (UFC).
 
 🗂️ Notebooks listados:
+
 classification-rgb-heb-in-asteroseismology.ipynb
 📌 Classificação de estrelas RGB e HeB usando dados de astrosismologia.
 
